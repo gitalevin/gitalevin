@@ -4,9 +4,9 @@
 Hi! I'm @gitalevin, a passionate web developer who loves to create projects that solve real-world problems and improve productivity. Whether it's building dynamic websites, experimenting with new programming languages, or collaborating on open-source projects, I'm always up for a challenge that pushes me to learn and grow.
 
 - 🌍 I'm interested in innovations that promote sustainability in tech.
-- 🔭 I’m currently working on a personal website showcasing my portfolio
+- 🔭 I’m currently working on a personal website showcasing my portfolio.
 - 🌱 I’m currently learning full-stack development, covering frontend frameworks like React, backend with Node.js and Express, REST API design, and database management with SQL and NoSQL solutions.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/reachglevin/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/reachglevin/)
 <!--
 **gitalevin/gitalevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
